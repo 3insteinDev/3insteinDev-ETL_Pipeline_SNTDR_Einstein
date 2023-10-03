@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "vitor",
+    "account": {
+      "id": 3160,
+      "number": "9749654-9",
+      "agency": "8152192",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 2890,
+      "number": "1755 9874 5425 7852",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 2,
+    "name": "fernanda",
+    "account": {
+      "id": 3161,
+      "number": "9749654-7",
+      "agency": "8152662",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 2891,
+      "number": "1755 9423 5425 7852",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 3,
+    "name": "JoyceFO",
+    "account": {
+      "id": 3162,
+      "number": "00034-9",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 3,
+      "number": "1234 1234 1234 9624",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 4,
+    "name": "JuliaLF",
+    "account": {
+      "id": 3163,
+      "number": "00034-8",
+      "agency": "0001",
+      "balance": 0,
+      "limit": 500
+    },
+    "card": {
+      "id": 2893,
+      "number": "1234 1234 1234 2465",
+      "limit": 1000
+    },
+    "features": [],
+    "news": []
+  }
+]
